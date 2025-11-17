@@ -9,7 +9,8 @@ timezone: UTC+8
 
 1. 自我介绍
 2. 你认为你会完成这次共学小组吗？
-3. 你的联系方式（Wechat or Telegram）
+3. 你感兴趣的小组
+4. 你的联系方式（Wechat or Telegram）
 
 ## Notes
 

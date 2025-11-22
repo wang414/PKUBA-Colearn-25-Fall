@@ -45,10 +45,10 @@ contract HelloWeb3 {
 然后按步骤进行操作，最后查看交易信息
 
 
-![image](https://github.com/henrymartin262/PKUBA-Colearn-25-Fall/tree/main/img/20251122_192540_201dbb50-6a41-43e2-a967-5ea556a69bb2.png)
+![image](https://github.com/henrymartin262/PKUBA-Colearn-25-Fall/blob/main/img//20251122_192540_201dbb50-6a41-43e2-a967-5ea556a69bb2.png)
 
 
-![image](https://github.com/henrymartin262/PKUBA-Colearn-25-Fall/tree/main/img/20251122_192548_Snipaste_2025-11-22_18-23-45.png)
+![image](https://github.com/henrymartin262/PKUBA-Colearn-25-Fall/blob/main/img//20251122_192548_Snipaste_2025-11-22_18-23-45.png)
 
 #### Part II - 智能合约编写
 
@@ -112,7 +112,7 @@ contract Week1Solver {
 
 代码如上
 
-![image](https://github.com/henrymartin262/PKUBA-Colearn-25-Fall/tree/main/img/20251122_192346_Snipaste_2025-11-22_18-55-35.png)
+![image](https://github.com/henrymartin262/PKUBA-Colearn-25-Fall/blob/main/img//20251122_192346_Snipaste_2025-11-22_18-55-35.png)
 
 返回结果如上，提示对 `PKUBlockchain` 进行keccak哈希，然后在链上算出 keccak256("PKUBlockchain")，然后把这个 bytes32 传给 query()
 
@@ -120,16 +120,16 @@ contract Week1Solver {
 
 
 
-![image](https://github.com/henrymartin262/PKUBA-Colearn-25-Fall/tree/main/img/20251122_192321_Snipaste_2025-11-22_19-20-43.png)
+![image](https://github.com/henrymartin262/PKUBA-Colearn-25-Fall/blob/main/img//20251122_192321_Snipaste_2025-11-22_19-20-43.png)
 
 成功获取到flag，前往 https://sepolia.etherscan.io 查看事件信息，是否成功提交
 
 
-![image](https://github.com/henrymartin262/PKUBA-Colearn-25-Fall/tree/main/img/20251122_190703_Snipaste_2025-11-22_19-03-18.png)
+![image](https://github.com/henrymartin262/PKUBA-Colearn-25-Fall/blob/main/img//20251122_190703_Snipaste_2025-11-22_19-03-18.png)
 
 确认
 
-![image](https://github.com/henrymartin262/PKUBA-Colearn-25-Fall/tree/main/img/20251122_190534_Snipaste_2025-11-22_19-03-42.png)
+![image](https://github.com/henrymartin262/PKUBA-Colearn-25-Fall/blob/main/img//20251122_190534_Snipaste_2025-11-22_19-03-42.png)
 
 <!-- Content_START -->
 

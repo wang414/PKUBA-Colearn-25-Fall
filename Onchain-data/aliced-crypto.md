@@ -16,10 +16,19 @@ timezone: UTC+8
 
 <!-- Content_START -->
 
-### 2025.07.11
+### 2025.11.23
+目标：在 Ethereum Sepolia 测试网上部署一个属于你自己的智能合约，并与该合约交互。
+合约地址：0x339D339f0bB548c07782D3C96fB58666c0500286
+交易哈希：0xb6ef331dc0ed39de91617eae20793bba26095d2d2777a31344c334a0bcdd6a82
 
-笔记内容
+### 2025.11.30
+目标
+通过编写智能合约与靶子合约交互，获取 Flag 并触发ChallengeCompleted 事件。
+Target: 0x4a6C0c0dc8bD8276b65956c9978ef941C3550A1B
 
-### 2025.07.12
+Solver Contract: 0xa98043afd36bc184285951765c2833aacdcf014c
+TX: 0x4aa36b17b6bb0123719733e37268e2a40e84e1a35b2a1ccce20641ee662b06ce
+
+
 
 <!-- Content_END -->

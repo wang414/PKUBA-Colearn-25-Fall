@@ -11,11 +11,11 @@ timezone: UTC+8
    Annie Huang, 软微研二金科选手
 2. 你认为你会完成这次共学小组吗？
    会吧🥹
-3.你感兴趣的小组
+3.你感兴趣的小组    
    Onchain-Data
-4. 你的联系方式（Wechat or Telegram）
+4. 你的联系方式（Wechat or Telegram）   
    wechat：17771452990
-5.质押的交易哈希
+5.质押的交易哈希    
    0x799ac5673fdd7f39b46206b2c8ea08d3c1a60c90ea7f6d5f2b311fa4fa46450e
 
 ## Notes

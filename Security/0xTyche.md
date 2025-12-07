@@ -165,6 +165,8 @@ https://sepolia.etherscan.io/tx/0x91e72d0a469e800d7f44f2a02b40518128a5a59eea8124
 
 ### 2025.12.07
 
+转账哈希：0x6ea04b5764b8db4cc59f7f3f872a45df6fcc0b9d1b8345c4725786de052d0051
+
 本周目标：
 
 学会用 Geth 的 Go 客户端从 RPC 节点读取链上信息
